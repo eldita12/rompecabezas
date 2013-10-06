@@ -31,8 +31,7 @@ public class Tablero{
 		        	aux++;
 		    	}
 			}
-
-			
+	
 			imprimir(); 
 
 	}
